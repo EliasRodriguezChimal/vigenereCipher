@@ -7,9 +7,9 @@
   
 ### UI: 
   
-  # Tkinter from Python.
-    - Data fields.
-    - Clean button.
+  Tkinter from Python.
+  - Data fields.
+  - Clean button.
   
 ### Cipher:
 
